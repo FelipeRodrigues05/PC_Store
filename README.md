@@ -4,6 +4,8 @@
 
 ## This features are in developing:
 1. Graphical Interface
+2. Filters
+3. Tables
 
 ## Technologies Used:
 
